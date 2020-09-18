@@ -1,1 +1,1 @@
-This is my first package.
+https://pypi.org/project/Marymodule/0.0.1/
